@@ -38,3 +38,5 @@ O objetivo é comparar o desempenho da SELIC com o desempenho de ativos de renda
 
 - Visualizações que mostram a comparação da rentabilidade acumulada da SELIC com a dos ativos de renda variável.
 - Análise da correlação entre a rentabilidade dos ativos e a SELIC para entender a relação entre eles.
+
+  ![](https://github.com/GeorgeTelles/SELIC_vs_Stocks/blob/dd51275d4c7df2ea83d967b119cd31fac96801e3/plot.png)
